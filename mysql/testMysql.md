@@ -17,13 +17,13 @@
 
 ```
 
-## Отобразить данные приведенного ниже вида, обратить внимание на he и she: 
+## 2 задание 
 
 
 ```
 select  if(gender = "f", (concat("This is ", name , " she has email ", email)),(concat("This is ", name," he has email ", email))) as info from people;
 ```
-## Отобразить данные приведенного ниже вида:
+## 3 задание
 
 ```
  select  concat("We have " , count(*),
