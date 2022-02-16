@@ -12,6 +12,7 @@
 |  6 | Helen  | dfjncywoa     | hell@gmail.com    | f      |
 |  7 | Jenny  | dks62i72fbd72 | eachup@gmail.com  | f      |
 |  8 | Lora   | dhdt212131324 | tpicks@gmail.com  | f      |
+|  9 | Angel  | angel1        | angel@gmail.com   | f      |
 +----+--------+---------------+-------------------+--------+
 
 ```
